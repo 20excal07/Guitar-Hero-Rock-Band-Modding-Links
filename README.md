@@ -10,5 +10,9 @@ Customs utilities:
 - [C3 CON Tools](https://drive.google.com/file/d/1R4NaC6f0pcATiZogARl_4sWtoG7LLifo/view)
 - [Moonscraper Chart Editor](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
 
+Miscellaneous:
+- [DLCs from past Guitar Hero Games](https://www.youtube.com/watch?v=dJGubv1gqMk)
+
 OwO what's this:
 - [Arby's 2 Vanilla Shake™](https://bit.ly/arbystwovanilla)
+- 
