@@ -9,3 +9,6 @@ Customs utilities:
 - [Onyx Music Game Toolkit](https://github.com/mtolly/onyxite-customs)
 - [C3 CON Tools](https://drive.google.com/file/d/1R4NaC6f0pcATiZogARl_4sWtoG7LLifo/view)
 - [Moonscraper Chart Editor](https://github.com/FireFox2000000/Moonscraper-Chart-Editor)
+
+OwO what's this:
+- [Arby's 2 Vanilla Shake™](https://bit.ly/arbystwovanilla)
