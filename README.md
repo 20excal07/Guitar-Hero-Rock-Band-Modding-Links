@@ -15,4 +15,3 @@ Miscellaneous:
 
 OwO what's this:
 - [Arby's 2 Vanilla Shake™](https://bit.ly/arbystwovanilla)
-- 
