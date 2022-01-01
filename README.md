@@ -21,7 +21,7 @@ Miscellaneous:
   - [The current project that you should check out first](https://gitlab.com/rock-band-customs/wii-vwii-dolphin)
   - [GBATemp tutorial from 2019](https://gbatemp.net/threads/a-guide-to-creating-rock-band-3-custom-songs.534832/)
   - [Outdated tutorial from old days of C3](https://rhythmgamingworld.com/forums/topic/how-to-playing-customs-on-wii/)
-- [Customs for Rock Band 3 on the PS3](https://gitlab.com/rock-band-customs/playstation/-/wikis/home)]
+- [Customs for Rock Band 3 on the PS3](https://gitlab.com/rock-band-customs/playstation/-/wikis/home)
 - [Customs for Rock Band 3 on the 360](https://rhythmgamingworld.com/forums/topic/how-to-playing-customs-on-360/) (might be outdated now)
 
 OwO what's this:
