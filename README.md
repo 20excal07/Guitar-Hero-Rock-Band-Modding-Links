@@ -13,8 +13,11 @@ Customs utilities:
   - [C3 Automation Tools for Reaper](https://github.com/abefacciazzi/CAT/releases/) ( [instructions](https://rhythmgamingworld.com/forums/topic/c3-automation-tools-2/) )
   - [Everything else - RBN/C3 Reaper plugins, tutorials, etc](https://rhythmgamingworld.com/forums/topic/list-of-all-authoring-stuff-reaper-magma-tutorials-etc/)
 
-Miscellaneous:
+Downloadable Content:
 - [DLCs from past Guitar Hero games](https://www.youtube.com/watch?v=dJGubv1gqMk)
+- [All Rock Band DLCs, export packs and RBN](https://www.youtube.com/watch?v=QFdE9tk7aXE)
+
+Miscellaneous:
 - [C3 RBN docs](http://docs.c3universe.com/rbndocs/)
 - [Rock Band Customs Project Website](https://rock-band-customs.gitlab.io)
 - Customs for Rock Band 3 on the Nintendo Wii
